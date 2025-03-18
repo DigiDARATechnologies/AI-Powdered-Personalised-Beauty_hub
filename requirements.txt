@@ -1,0 +1,8 @@
+Flask>=2.3.2
+mysql-connector-python>=8.0.33
+flask-cors>=4.0.1
+protobuf>=4.25.3
+opencv-python>=4.8.0
+mediapipe>=0.10.21
+numpy>=1.26.0
+deepface>=0.0.93
